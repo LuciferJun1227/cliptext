@@ -1,0 +1,12 @@
+version: 1.0.8
+files:
+  - url: cliptext-1.0.8-mac.zip
+    sha512: H4nMDvMdt13ZrKlPd8SBFDg8c9G609NFR/oxzqB0hfM4QLw8NUxDvtp2IegXRfQX92oQHBhuYc3EoOIQre+w1A==
+    size: 45410438
+    blockMapSize: 48090
+  - url: cliptext-1.0.8.dmg
+    sha512: K38ly8dBZUd81uXNx6+LX32Y0cBGlOrNRCW9vcpPzpEDAVrBdq02QyfzvoFd9E0Yy1IT2YioifWZyJ2FEN8hmQ==
+    size: 46936736
+path: cliptext-1.0.8-mac.zip
+sha512: H4nMDvMdt13ZrKlPd8SBFDg8c9G609NFR/oxzqB0hfM4QLw8NUxDvtp2IegXRfQX92oQHBhuYc3EoOIQre+w1A==
+releaseDate: '2019-05-23T07:34:12.390Z'

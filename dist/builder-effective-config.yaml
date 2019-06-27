@@ -1,0 +1,15 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.xxxxxxx.cliptext
+files:
+  - filter:
+      - '*.js'
+      - '*.html'
+      - package.json
+      - node_modules
+      - images
+mac:
+  icon: ./images/icon.icns
+asar: true
+electronVersion: 1.6.11
